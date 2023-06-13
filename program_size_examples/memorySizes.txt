@@ -1,0 +1,26 @@
+
+
+
+001BasicSetup.c
+   text	   data	    bss	    dec	    hex	filename
+   1228	    544	      8	   1780	    6f4	program1
+
+
+002globalVar.c
+   text	   data	    bss	    dec	    hex	filename
+   1228	    544	      8	   1780	    6f4	program2
+
+
+003staticVar.c
+   text	   data	    bss	    dec	    hex	filename
+   1228	    544	     16	   1788	    6fc	program3
+
+
+004initializeStaticVar.c
+   text	   data	    bss	    dec	    hex	filename
+   1228	    548	     12	   1788	    6fc	program4
+
+
+005initializeGlobalVar.c
+   text	   data	    bss	    dec	    hex	filename
+   1228	    552	      8	   1788	    6fc	program5
