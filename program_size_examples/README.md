@@ -17,5 +17,7 @@ This folder includes examples of C programs to test the `size` command. Use this
 - Command to check program size: `gcc programExecutable`
 
 ## Resources
-[GeeksforGeeks Memory Layout of C Program](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
+[GeeksforGeeks - Memory Layout of C Program](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
+[Scaler - Memory Layout In C](https://www.scaler.com/topics/c/memory-layout-in-c/)
+[HackerEarth - Memory Layout of C Program](https://www.hackerearth.com/practice/notes/memory-layout-of-c-program/)
 
